@@ -1,0 +1,12 @@
+# Package Files #
+*.iml
+*.class
+*.jar
+*.war
+*.ear
+.project
+.classpath
+# Mobile Tools for Java (J2ME)
+.externalToolBuilders/
+.settings/
+target/
